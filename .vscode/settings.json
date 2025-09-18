@@ -1,0 +1,30 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#0fffbe",
+        "activityBar.background": "#0fffbe",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#d460ff",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#0fffbe",
+        "statusBar.background": "#00dba0",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#00a87b",
+        "statusBarItem.remoteBackground": "#00dba0",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#00dba0",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#00dba099",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "00DBA0",
+    "liveServer.settings.port": 5502,
+    "favorites.resources": [],
+    "cSpell.words": [
+        "EXPELIT",
+        "kulu",
+        "swiper",
+        "Zydot"
+    ]
+}
